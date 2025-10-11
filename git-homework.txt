@@ -1,0 +1,18 @@
+Homework:
+
+“What is the difference between Git and GitHub?”
+Git is a type of code(?) that logs changes and allows users to work collaboratively.
+GitHub is the "Code Hub" or "Cloud" that stores users upload to from local systems.
+
+ “What’s the difference between ‘git add <file>’, ‘git add .’, and ‘git add -A’"
+ git add <file> adds a specfic file
+ git add . adds all changes in the directory
+ git add -A adds changes in the entire repository
+
+ “What does git push do? What does git pull do?”
+ git push uploads from local to remote repository
+ git pull downloads changes from remote and merges into local branch
+
+ “What’s the difference between fetch and pull?”
+ git fetch downloads changes ONLY
+ git pull applies and merges the downloaded
